@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Weather+</string>
+    <string name="usehelp_text">使用帮助 \n 1、使用过程中保持联网状态 \n2、运行异常请清除应用缓存\n</string>
+    <string name="about_text">关于\Android二组\n组员：杨森林、闫泽瑞、陈涛、唐思思、唐柳、余波、邓志勇、邓海平</string>
+</resources>
